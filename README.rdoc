@@ -1,0 +1,9 @@
+=begin
+= Facebooker_Multi
+Adding database-backed configurations and multi-app support to the Facebooker plugin. 
+
+Initially forked from the Awexome Suite project at http://awexo.me/
+
+= COPYRIGHT
+Copyright 2010 Colin McCloskey (http://mccolin.com/).
+
