@@ -1,4 +1,3 @@
-=begin
 = Facebooker_Multi
 Adding database-backed configurations and multi-app support to the Facebooker plugin. 
 
